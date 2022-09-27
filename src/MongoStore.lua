@@ -2,13 +2,13 @@
 
 	MongoStore is an alternative to DataStoreService
 	which uses the Rongo module as an interface to
-	MongoDB.
+	MongoDB Atlas.
 	
 	MongoStore includes quite a few of the functions
 	which DataStoreService has and it aims to make the
 	transition from DataStoreService as smooth as possible
 	
-	You will need a MongoDB account to use MongoStore
+	You will need a MongoDB Atlas account to use MongoStore
 	
 	Version: 1.0.0
 	License: MIT License
